@@ -14,20 +14,24 @@
 
 ###
 
-<p align="left">boundless 線上音樂教育平台<br><br>於資展國際學習時與團隊製作的大型專題與小型專題，詳細介紹可於下方的儲存庫查看喔。</p>
+<p align="left">boundless 線上音樂教育平台<br><br>於資展國際學習時與團隊製作的大型專題與小型專題，詳細介紹可以直接點擊下方的圖片到相對應的儲存庫查看喔。</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/sxpoczm.png"  />
+  <a href="https://github.com/Mstarcra/boundless" target="_blank">
+    <img height="200" src="https://github.com/Mstarcra/boundless/blob/main/sampleimg.png"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="240" src="https://i.imgur.com/K9ORCdZ.png"  />
+  <a href="https://github.com/Mstarcra/boundless_back_end" target="_blank">
+    <img height="240" src="https://i.imgur.com/K9ORCdZ.png"  />
+  </a>
 </div>
 
 ###
